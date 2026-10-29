@@ -8,8 +8,8 @@ output:
   probfile:   prob.npy
   logfile:    null
 mcmc:
-  iterations: 5
-  scheduler: None
+  iterations: 3
+  scheduler: null
   input_db: mcmc_2.tdb
   chains_per_parameter: 2
   data_weights:
